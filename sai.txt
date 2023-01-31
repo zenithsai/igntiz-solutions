@@ -1,0 +1,11 @@
+hello welcome to git
+hello welcome to git
+a=[]
+# b=[]
+# x=int(input("enter a no"))
+# y=int(input("enter a no"))
+# for i in range(x,y):
+#     if i%2==0:
+#         a.append(i)
+#     else:
+#         b.append(i)
